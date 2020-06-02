@@ -1,5 +1,5 @@
 # Distracted Driver Detection
-
+![](/images/state_farm.png)
 ## Project Overview
 
 According to the CDC motor vehicle safety division, one in five car
@@ -31,14 +31,16 @@ Following are needed tasks for the development of the algorithm:
 The provided data set has driver images, each taken in a car with a driver
 doing something in the car (texting, eating, talking on the phone, makeup,
 reaching behind, etc). This dataset is obtained from Kaggle(State Farm
-Distracted Driver Detection competition).Following are the file descriptions and URL’s from which the data can be
+Distracted Driver Detection competition).
+
+Following are the file descriptions and URL’s from which the data can be
 obtained :
 * imgs.zip - zipped folder of all (train/test) images
 * sample_submission.csv - a sample submission file in the correct format
 * driver_imgs_list.csv - a list of training images, their subject (driver) id, and
-* [class id](https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/)
-* [driver_imgs_list.csv.zip](https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/)
-* [sample_submission.csv.zip](https://www.kaggle.com/c/state-farm-distracted-driver-detection/download/)
+* class id
+* driver_imgs_list.csv.zip
+* sample_submission.csv.zip
 
 The 10 classes to predict are:
 
@@ -66,11 +68,13 @@ There are 102150 total images. Of these 17939 are training images,4485
 are validation images and 79726 are training images. All the training,
 validation images belong to the 10 categories shown above.
 The images are
-coloured and have 640 x 480 pixels each as shown below
+coloured and have 640 x 480 pixels each as shown below  
 
-![](images/image1.png)
+Driver texting right  
+![](images/img_12_TEXTING_RIGHT.jpg)  
 
-![](images/image2.png)
+Driver operating the radio  
+![](images/img_10_OPERATING_RADIO.jpg)
 
 ## Project Overview
 
