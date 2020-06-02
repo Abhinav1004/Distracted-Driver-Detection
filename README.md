@@ -122,10 +122,10 @@ slow learning rate of 1e-4. A momentum of 0.9 was applied with SGD.
 
 I followed the following four approaches one by one for improving the model results
 
-* Making a CNN architecture from scratch ![Link](https://github.com/Abhinav1004/Distracted-Driver-Detection/blob/master/Distracted%20Driver%20Detection%20CNN%20Scratch.ipynb)
-* VGG16 as a feature extractor ![Link](https://github.com/Abhinav1004/Distracted-Driver-Detection/blob/master/Distracted%20Driver%20Detection%20VGG16.ipynb)
-* VGG16 with modifications as a feature extractor ![Link](https://github.com/Abhinav1004/Distracted-Driver-Detection/blob/master/Distracted%20Driver%20Detection%20VGG16_Modified.ipynb)
-* Fine tuning the VGG16 architecture with keeping first 15 layers fixed![Link](https://github.com/Abhinav1004/Distracted-Driver-Detection/blob/master/Distracted%20Driver%20Detection%20VGG16_Fine_Tuned.ipynb)
+* Making a CNN architecture from scratch [Link](https://github.com/Abhinav1004/Distracted-Driver-Detection/blob/master/Distracted%20Driver%20Detection%20CNN%20Scratch.ipynb)
+* VGG16 as a feature extractor [Link](https://github.com/Abhinav1004/Distracted-Driver-Detection/blob/master/Distracted%20Driver%20Detection%20VGG16.ipynb)
+* VGG16 with modifications as a feature extractor [Link](https://github.com/Abhinav1004/Distracted-Driver-Detection/blob/master/Distracted%20Driver%20Detection%20VGG16_Modified.ipynb)
+* Fine tuning the VGG16 architecture with keeping first 15 layers fixed [Link](https://github.com/Abhinav1004/Distracted-Driver-Detection/blob/master/Distracted%20Driver%20Detection%20VGG16_Fine_Tuned.ipynb)
 
 ### Results
 
