@@ -1,6 +1,6 @@
 # Distracted Driver Detection
 ![](/images/state_farm.png)
-![](/images/statefarm_result.gif)
+![](/images/statefarm_distracted_driver.gif)
 
 ## Project Overview
 
