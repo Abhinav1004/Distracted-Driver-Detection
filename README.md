@@ -2,7 +2,7 @@
 ![](/images/state_farm.png)
 
 
-![](/images/statefarm_distracted_driver.gif)
+![](/images/statefarm_result.gif)
 
 ## Project Overview
 
