@@ -1,8 +1,11 @@
 # Distracted Driver Detection
 ![](/images/state_farm.png)
 
-
+## Applying on Input Video
 ![](/images/statefarm_result.gif)
+
+## Applying on Input Image
+![](/images/demo_image.gif)
 
 ## Project Overview
 
