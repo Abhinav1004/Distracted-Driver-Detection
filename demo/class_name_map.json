@@ -1,0 +1,12 @@
+{
+    "c0": "SAFE_DRIVING",
+    "c1": "TEXTING_RIGHT",
+    "c2": "TALKING_PHONE_RIGHT",
+    "c3": "TEXTING_LEFT",
+    "c4": "TALKING_PHONE_LEFT",
+    "c5": "OPERATING_RADIO",
+    "c6": "DRINKING",
+    "c7": "REACHING_BEHIND",
+    "c8": "HAIR_AND_MAKEUP",
+    "c9": "TALKING_TO_PASSENGER"
+}
