@@ -150,9 +150,11 @@ considered for this data set is shown in Fig
 1. Install `Python 3.8.5` on your Local Machine 
 2. Execute `git clone https://github.com/Abhinav1004/Distracted-Driver-Detection.git` to clone the repository
 3. Create Python Virtual Environment in root folder by opening terminal and executing
-    ```* pip install virtualenv
+    ```
+      * pip install virtualenv
       * virtualenv distracted_env
-      * source distracted_env/bin/activate```
+      * source distracted_env/bin/activate
+     ```
 4. Install required Python Libraries by `pip install -r requirements.txt`
 
 
