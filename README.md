@@ -147,7 +147,7 @@ considered for this data set is shown in Fig
 
 ### Installation 
 
-1. Install `Python 3.8.5` on your Local Machine 
+1. Install `Python 3.10` on your Local Machine 
 2. Execute `git clone https://github.com/Abhinav1004/Distracted-Driver-Detection.git` to clone the repository
 3. Create Python Virtual Environment in root folder by opening terminal and executing
     ```
