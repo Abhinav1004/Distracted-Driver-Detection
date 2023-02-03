@@ -7,7 +7,7 @@ clarifai==2.6.2
 clarifai-grpc==8.11.0
 configparser==3.8.1
 flatbuffers==22.12.6
-future==0.18.2
+future==0.18.3
 gast==0.4.0
 google-auth==2.15.0
 google-auth-oauthlib==0.4.6
