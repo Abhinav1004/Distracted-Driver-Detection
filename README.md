@@ -1,11 +1,12 @@
 # Distracted Driver Detection
-![](/images/state_farm.png)
+![state_farm](https://github.com/Abhinav1004/Distracted-Driver-Detection/assets/24820856/688efd51-06b0-477e-b121-d8a138083f62)
 
 ## Applying on Input Video
 ![](/images/statefarm_result.gif)
 
 ## Applying on Input Image
-![](/images/demo_image.gif)
+![demo_image](https://github.com/Abhinav1004/Distracted-Driver-Detection/assets/24820856/f60d8eaa-e2d1-4781-8b20-ce2159adb762)
+
 
 ## Project Overview
 
@@ -78,10 +79,10 @@ The images are
 coloured and have 640 x 480 pixels each as shown below  
 
 Driver texting right  
-![](images/img_12_TEXTING_RIGHT.jpg)  
+![img_12_TEXTING_RIGHT](https://github.com/Abhinav1004/Distracted-Driver-Detection/assets/24820856/4e35fa4c-b059-42c9-8493-106adf5658a8)
 
 Driver operating the radio  
-![](images/img_10_OPERATING_RADIO.jpg)
+![img_10_OPERATING_RADIO](https://github.com/Abhinav1004/Distracted-Driver-Detection/assets/24820856/47d8078a-2378-4f73-8180-a7654970c499)
 
 ## Project Overview
 
