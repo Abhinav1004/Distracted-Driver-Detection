@@ -2,7 +2,10 @@
 ![state_farm](https://github.com/Abhinav1004/Distracted-Driver-Detection/assets/24820856/688efd51-06b0-477e-b121-d8a138083f62)
 
 ## Applying on Input Video
-![](/images/statefarm_result.gif)
+
+https://github.com/Abhinav1004/Distracted-Driver-Detection/assets/24820856/3b28690a-a5d6-40d7-9ff2-738dd423068f
+
+t Video
 
 ## Applying on Input Image
 ![demo_image](https://github.com/Abhinav1004/Distracted-Driver-Detection/assets/24820856/f60d8eaa-e2d1-4781-8b20-ce2159adb762)
