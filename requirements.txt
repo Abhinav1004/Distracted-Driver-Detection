@@ -1,7 +1,7 @@
 absl-py==1.3.0
 astunparse==1.6.3
 cachetools==5.2.0
-certifi==2023.7.22
+certifi==2024.7.4
 charset-normalizer==2.1.1
 clarifai==2.6.2
 clarifai-grpc==8.11.0
